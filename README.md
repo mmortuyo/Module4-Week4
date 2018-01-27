@@ -8,4 +8,4 @@ This repo contains the following files:
 * tidy_data.txt - output of performed analysis
 
 ## About run_analysis script
-For creating tidy data, this script uses data.table and reshape2 package, and was automatically called using library function.
+For creating tidy data, this script uses data.table and reshape2 packages, and was automatically called in the script. To run the script, paste a copy of the script on the same folder the datasets located.
